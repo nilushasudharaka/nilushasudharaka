@@ -1,6 +1,6 @@
 <div align="center">
   <img width="15%" src="https://miro.medium.com/v2/0*eJrmp6RtjgbdTSKv.gif"/>
-  <h1>Hi 👋, I'm Vishwa Nethsara</h1>
+  <h1>Hi 👋, I'm Nilusha Sudharaka</h1>
   <h3>A passionate Frontend, Java & AIML developer from Sri Lanka</h3>
 </div>
 
