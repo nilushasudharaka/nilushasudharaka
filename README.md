@@ -1,25 +1,126 @@
-<h1 align="center">Hi 👋, I'm Nilusha Sudharaka</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<div align="center">
+  <img width="15%" src="https://miro.medium.com/v2/0*eJrmp6RtjgbdTSKv.gif"/>
+  <h1>Hi 👋, I'm Vishwa Nethsara</h1>
+  <h3>A passionate Frontend, Java & AIML developer from Sri Lanka</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilushasudharaka&label=Profile%20views&color=0e75b6&style=flat" alt="nilushasudharaka" /> </p>
 
-- 🔭 I’m currently working on **SLIIT**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa633&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa633" /> </p>
 
-- 🌱 I’m currently learning **JAVA, C, Python, html, css, javascript, react js**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwa633" alt="vishwa633" /></a> </p>
+<br>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 📫 How to reach me **nilushasudharaka24@gmail.com**
+- 🌱 I’m currently learning **Java Springboot & AIML**
 
-- ⚡ Fun fact **Call me as NS**
+- 💬 Ask me about **Java & Machine Learning**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nilushasudharaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilushasudharaka" height="30" width="40" /></a>
-<a href="https://fb.com/nilushasudharaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nilushasudharaka" height="30" width="40" /></a>
-<a href="https://instagram.com/nilusha_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilusha_33" height="30" width="40" /></a>
+- 📫 How to reach me **vishwanethsara633@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<br></br>
+-----
+<h2 align="center">
+  Connect with me:
+</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwa nethsara" height="30" width="40" style="border:3px solid #0e76a8; border-radius:10px; padding:5px;"/></a>
+<a href="https://fb.com/vishwa nethsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishwa nethsara" height="30" width="40" style="border:3px solid #1877f2; border-radius:10px; padding:5px;"/></a>
+<a href="https://instagram.com/vishw.a633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishw.a633" height="30" width="40" style="border:3px solid #e1306c; border-radius:10px; padding:5px;"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+-----------
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=arduino,react,bootstrap,html,css,vscode,github,tailwind" />
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,spring,mysql,tensorflow,scikitlearn,r,git" /><br>
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
+<br/>
+
+
+-----
+
+<h2 align="center">📊 My GitHub Statistics</h2>
+
+
+<br>
+
+
+
+
+
+
+
+<table style="width: 100%;
+      border-collapse: collapse; /* clean border */
+      border: 2px solid black;">
+  <tr>
+    <td style="padding: 10px;
+      text-align: left;
+      border-left: 2px solid black;">
+      <br>
+      <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+
+  <!-- GitHub Stats Card -->
+  <div style="
+      background:#1e1e2f;
+      padding:20px;
+      border-radius:15px;
+      border:1px solid #ffffff30;
+      box-shadow:0 4px 15px rgba(0,0,0,0.3);
+      width:320px;">
+    <div style="border-bottom:1px solid white; padding-bottom:10px; margin-bottom:10px;">
+      <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=vishwa633&show_icons=true&theme=dark&hide_border=false" style="border-radius:10px; width:90%;" />
+    </div>
+  </div>
+  </div>
+      <br>
+        <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+  <!-- Streak Stats Card -->
+  <div style="
+      background:#1e1e2f;
+      padding:20px;
+      border-radius:15px;
+      border:1px solid #ffffff30;
+      box-shadow:0 4px 15px rgba(0,0,0,0.3);
+      width:320px;">
+    <div style="border-bottom:1px solid white; padding-bottom:10px; margin-bottom:10px;">
+      <img  src="https://streak-stats.demolab.com?user=vishwa633&theme=dark&hide_border=false" 
+           style="border-radius:10px; width:90%;" />
+    </div>
+  </div>
+</div>
+<br>
+    </td>
+    <td style="padding: 10px;
+      text-align: left;
+      border-left: 2px solid black;">
+      <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+  <!-- Languages Card -->
+  <div style="
+      border-radius:15px;
+      border:5px solid white;
+      width:100%; max-width:450px;">
+
+ 
+
+   ![Top Langs](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vishwa633&theme=dark&langs_count=10
+)
+
+   
+  </div>
+
+</div>
+    </td>
+  </tr>
+  
+</table>
+
+
+
+  ![snake gif](https://github.com/Vishwa633/Vishwa633/blob/output/github-snake-dark.svg)
