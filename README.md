@@ -1,126 +1,61 @@
+![Header](header-img.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=24&pause=1000&color=F7E727&width=435&lines=Hi+there%2C;I'm+Vinod+Rajapaksha+!;I'm+a+Programmer;I'm+a+Designer)](https://git.io/typing-svg)
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-  <img width="15%" src="https://miro.medium.com/v2/0*eJrmp6RtjgbdTSKv.gif"/>
-  <h1>Hi 👋, I'm Nilusha Sudharaka</h1>
-  <h3>A passionate Frontend, Java & AIML developer from Sri Lanka</h3>
+
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
 </div>
 
+## 📊 GitHub Analytics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa633&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa633" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwa633" alt="vishwa633" /></a> </p>
-<br>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-- 🌱 I’m currently learning **Java Springboot & AIML**
-
-- 💬 Ask me about **Java & Machine Learning**
-
-- 📫 How to reach me **vishwanethsara633@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<br></br>
------
-<h2 align="center">
-  Connect with me:
-</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwa nethsara" height="30" width="40" style="border:3px solid #0e76a8; border-radius:10px; padding:5px;"/></a>
-<a href="https://fb.com/vishwa nethsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishwa nethsara" height="30" width="40" style="border:3px solid #1877f2; border-radius:10px; padding:5px;"/></a>
-<a href="https://instagram.com/vishw.a633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishw.a633" height="30" width="40" style="border:3px solid #e1306c; border-radius:10px; padding:5px;"/></a>
-</p>
-
------------
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,react,bootstrap,html,css,vscode,github,tailwind" />
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,spring,mysql,tensorflow,scikitlearn,r,git" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinod-Rajapaksha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod-Rajapaksha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
 </div>
 
-<br/>
-
-
------
-
-<h2 align="center">📊 My GitHub Statistics</h2>
-
-
-<br>
-
-
-
-
-
-
-
-<table style="width: 100%;
-      border-collapse: collapse; /* clean border */
-      border: 2px solid black;">
-  <tr>
-    <td style="padding: 10px;
-      text-align: left;
-      border-left: 2px solid black;">
-      <br>
-      <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-
-  <!-- GitHub Stats Card -->
-  <div style="
-      background:#1e1e2f;
-      padding:20px;
-      border-radius:15px;
-      border:1px solid #ffffff30;
-      box-shadow:0 4px 15px rgba(0,0,0,0.3);
-      width:320px;">
-    <div style="border-bottom:1px solid white; padding-bottom:10px; margin-bottom:10px;">
-      <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=vishwa633&show_icons=true&theme=dark&hide_border=false" style="border-radius:10px; width:90%;" />
-    </div>
-  </div>
-  </div>
-      <br>
-        <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-  <!-- Streak Stats Card -->
-  <div style="
-      background:#1e1e2f;
-      padding:20px;
-      border-radius:15px;
-      border:1px solid #ffffff30;
-      box-shadow:0 4px 15px rgba(0,0,0,0.3);
-      width:320px;">
-    <div style="border-bottom:1px solid white; padding-bottom:10px; margin-bottom:10px;">
-      <img  src="https://streak-stats.demolab.com?user=vishwa633&theme=dark&hide_border=false" 
-           style="border-radius:10px; width:90%;" />
-    </div>
-  </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinod-Rajapaksha&theme=tokyonight&hide_border=true&mode=weekly" height="200" />
 </div>
-<br>
-    </td>
-    <td style="padding: 10px;
-      text-align: left;
-      border-left: 2px solid black;">
-      <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-  <!-- Languages Card -->
-  <div style="
-      border-radius:15px;
-      border:5px solid white;
-      width:100%; max-width:450px;">
 
- 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vinod-Rajapaksha&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
-   ![Top Langs](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vishwa633&theme=dark&langs_count=10
-)
+## 🤝 Connect & Collaborate
 
-   
-  </div>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinod-rajapaksha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-rajapaksha/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinod__rajapaksha/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinodrajapaksha.dev@gmail.com)
 
 </div>
-    </td>
-  </tr>
+
+---
+
+<div align="center">
   
-</table>
-
-
-
-  ![snake gif](https://github.com/Vishwa633/Vishwa633/blob/output/github-snake-dark.svg)
+  **💡 Thank you for visiting my GitHub profile ! Feel free to contact me.**
+  
+</div>
