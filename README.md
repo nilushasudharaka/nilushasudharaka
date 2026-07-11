@@ -128,9 +128,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nilushasudharaka&layout=compact&theme=radical&&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nilushasudharaka&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilushasudharaka&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nilushasudharaka&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -140,7 +140,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilushasudharaka&theme=radical&hide_border=true"/>
 
 </div>
-
 
 ---
 
