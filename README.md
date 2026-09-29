@@ -123,16 +123,14 @@
 
 ---
 
+
+
 # 📈 GitHub Analytics
-
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nilushasudharaka&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nilushasudharaka&layout=compact&theme=radical&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=nilushasudharaka&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nilushasudharaka&layout=compact&theme=radical&hide_border=true"/>
 </div>
+
 
 
 <div align="center">
